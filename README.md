@@ -17,6 +17,7 @@ Welcome to **Blogzy** – your go-to platform for crafting, sharing, and managin
 - **Delete Unwanted Posts** ❌: Manage your content by removing posts you no longer need.
 - **Rich Text Editing** 📋: Enhanced content formatting with **CKEditor** for a professional touch.
 - **User-Friendly Forms** ✅: Simple and secure form handling using **Flask-WTF**.
+- **Data Storage with SQLite** 🗄️: Blogzy uses **SQLite** for fast and easy data management, perfectly suited for local storage.
 
 ---
 
