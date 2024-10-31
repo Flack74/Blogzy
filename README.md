@@ -27,7 +27,7 @@ Set up **Blogzy** locally in just a few steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/Blogzy.git
+   git clone https://github.com/Flack74/Blogzy.git
    cd Blogzy
    ```
 
